@@ -1,5 +1,6 @@
 src
 .editorconfig
+.eslintcache
 .eslintignore
 .eslintrc.js
 .versionrc
