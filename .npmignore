@@ -2,6 +2,6 @@ src
 .editorconfig
 .eslintignore
 .eslintrc.js
-,versionrc
+.versionrc
 jest.config.js
 tsconfig*
