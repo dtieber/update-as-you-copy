@@ -35,6 +35,7 @@
     "prepare": "husky install",
     "prepublish": "tsc --project tsconfig.publish.json",
     "release": "standard-version",
-    "test": "NODE_ENV=test jest --passWithNoTests"
+    "test": "NODE_ENV=test jest --passWithNoTests",
+    "test:coverage": "yarn test --coverage"
   }
 }
