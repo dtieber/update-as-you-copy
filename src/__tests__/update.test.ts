@@ -1,5 +1,8 @@
 import { update } from '../update'
 
+export function Foo():any {}
+
+
 describe('update', () => {
   it('clones and updates an object', () => {
     const foo = {
