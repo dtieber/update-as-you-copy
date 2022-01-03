@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Daniel Tieber <dtieber@gmail.com>",
   "license": "ISC",
+  "main": "./dist/update.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/dtieber/update-as-you-copy.git"
