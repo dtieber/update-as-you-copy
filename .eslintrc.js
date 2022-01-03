@@ -38,7 +38,7 @@ module.exports = {
     'no-extra-parens': 'error',
     'no-multiple-empty-lines': ['error', { 'max': 1 }],
     'no-multi-spaces': 'error',
-    'no-param-reassign': ['error', { 'props': true }],
+    'no-param-reassign': ['error', { 'props': true, 'ignorePropertyModificationsForRegex': ['^clone'] }],
     'no-return-await': 'error',
     'no-shadow': 'off',
     'object-curly-spacing': ['error', 'always'],
