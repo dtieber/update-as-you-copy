@@ -3,6 +3,7 @@ src
 .eslintcache
 .eslintignore
 .eslintrc.js
+.husky
 .versionrc
 jest.config.js
 tsconfig*
